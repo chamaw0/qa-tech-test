@@ -23,4 +23,4 @@ Task 3
 - Opened dev tools, tried multiple SQL injections other security vulanarabilities that are present
 
 Task 4
-- 
+- Read through the code to undetrstand what it does
