@@ -16,4 +16,7 @@ Task 2
 - Added pseudocode and committed changes
 - Created the pull request to merge to the main brach
 - Once the branch was merged, deleted the branch
+
+Task 3
+- Created the security file on the main branch
 - 
