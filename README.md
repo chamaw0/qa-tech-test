@@ -25,6 +25,7 @@ Task 3
 - Created the security file on the main branch
 - Read trhough the website to realise what challenges and vulnarabilities there are in the website. Took a while to understand what the site does and get familiar with it. 
 - Opened dev tools, tried multiple SQL injections other security vulanarabilities that are present
+- Open to discuss mitigations during the technical interview.
 
 Task 4
 - Read through the code to undetrstand what it does
