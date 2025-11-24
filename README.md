@@ -19,4 +19,8 @@ Task 2
 
 Task 3
 - Created the security file on the main branch
+- Read trhough the website to realise what challenges and vulnarabilities there are in the website
+- Opened dev tools, tried multiple SQL injections other security vulanarabilities that are present
+
+Task 4
 - 
