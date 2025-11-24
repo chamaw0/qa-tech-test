@@ -6,8 +6,7 @@
 - Able to see user's residential address once logged in
 
 # Broken Access Control
-- Able to log in as admin due to weak password that has been chosen
-
+- Able to log in as admin by manipulating the request
 
 # Information Exposure
 - Can see the website techstack, the tech the system was built on (JavaScript, Angular)
@@ -15,3 +14,6 @@
 # Exposed Credentials (Sensitive Data Exposure)
 - Hardcoded credentials can be found in the dev tools
 - Email: testing@juice-sh.op Password: IamUsedForTesting
+
+# Broken Authentication
+- Admin has a weak password (admin123)
