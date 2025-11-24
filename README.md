@@ -15,6 +15,7 @@ Task 2
 - Created the pull request to merge to the main brach
 - Once the branch was merged, deleted the branch
 
+For the pseudocode
 - Created a new branch for test tests/registration-e2e-test
 - Added pseudocode and committed changes
 - Created the pull request to merge to the main brach
