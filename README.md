@@ -11,4 +11,9 @@ Task 2
 - Added the test approach as a .MD file and commited the changes to the docs/registration-wizard-test-approach branch
 - Edited the readme file and committed the changes
 - Created the pull request to merge to the main brach
-- Once the branch was merged, deleted the branch 
+- Once the branch was merged, deleted the branch
+- Created a new branch for test tests/registration-e2e-test
+- Added pseudocode and committed changes
+- Created the pull request to merge to the main brach
+- Once the branch was merged, deleted the branch
+- 
